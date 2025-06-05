@@ -1,4 +1,4 @@
-name: chatview
+name: chatview_omarragab
 description: A Flutter package that allows you to integrate Chat View with highly customization options.
 version: 2.4.1
 issue_tracker: https://github.com/SimformSolutionsPvtLtd/chatview/issues
@@ -20,7 +20,7 @@ dependencies:
   audio_waveforms: ^1.2.0
   cached_network_image: ^3.4.1
   chatview_utils:
-    git:
+   git:
       url: https://github.com/omarragab21/chatview_utils-0.0.1
       ref: main
   emoji_picker_flutter: ^4.3.0
